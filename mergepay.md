@@ -22,3 +22,4 @@ jjjj.
 ui
 hh
 no
+deployed
